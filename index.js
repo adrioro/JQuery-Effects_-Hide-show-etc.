@@ -16,3 +16,7 @@ $("#myButton2").click(function () {
     $(".myDiv3").toggle();
 
 });
+
+$(".myDiv4").click(function () {
+    $(".myDiv4").fadeOut(700); //700 millseconds fade out fully.
+});

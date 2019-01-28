@@ -19,6 +19,10 @@
   background-color: rgb(32, 2, 3);
   padding: 12px;
 }
+.myDiv4{
+  padding: 12px;
+  font-size: 22px;
+}
 
 #myButton,#myButton2{
   border:2px solid black;
