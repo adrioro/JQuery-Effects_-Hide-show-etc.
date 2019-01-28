@@ -1,0 +1,1 @@
+# JQuery-Effects_-Hide-show-etc.
