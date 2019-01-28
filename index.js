@@ -20,3 +20,7 @@ $("#myButton2").click(function () {
 $(".myDiv4").click(function () {
     $(".myDiv4").fadeOut(700); //700 millseconds fade out fully.
 });
+
+$("#myButton4").click(function () {
+    $(".myDiv4").fadeToggle(700); //700 millseconds fade out fully.
+});
