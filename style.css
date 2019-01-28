@@ -19,12 +19,15 @@
   background-color: rgb(32, 2, 3);
   padding: 12px;
 }
-.myDiv4{
+.myDiv4, .myDiv5{
   padding: 12px;
   font-size: 22px;
 }
+.myDiv5{
+  display: none;
+}
 
-#myButton,#myButton2{
+#myButton, #myButton2, #myButton5{
   border:2px solid black;
   padding: 12px;
 }
