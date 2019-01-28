@@ -1,0 +1,16 @@
+.myDiv1{
+  font-size: 18px;
+  color: green;
+  font-family: fantasy;
+  color: rgb(10, 251, 236);
+  background-color: rgb(7, 8, 87);
+  padding: 12px;
+}
+.myDiv2{
+  font-size: 14px;
+  color: green;
+  font-family: monospace;
+  color: white;
+  background-color: rgb(32, 2, 3);
+  padding: 12px;
+}
